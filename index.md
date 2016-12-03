@@ -4,7 +4,7 @@ layout: default
 
 ![avatar](michell.jpg)
 
-# Kirby
+# Michell
 
 A Nintendo Character
 
